@@ -1,4 +1,4 @@
--  Hi, I’m @scarletfeather
+-  Hi, I’m @ScarletFeather
 -  
 -  I’m interested in stories,languages,games,religious,art and code.
 -  

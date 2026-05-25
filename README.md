@@ -1,6 +1,6 @@
 -  Hi, I’m @ScarletFeather
 -  
--  I’m interested in music,stories,languages,games,religious,art and code.Current Hi-Fi equipment: FosiAudio DS1 + simgot 500lm, mostly using apple music. To be honest, you should try better audio souce and equipment once, which can make a huge difference.
+-  I’m interested in music,stories,languages,games,religious,art and code. Current Hi-Fi equipment: FosiAudio DS1 + simgot 500LM, mostly using apple music. To be honest, you should try better sound source and equipment once, it can make a huge difference to your experience.
 -  
 -  I have learned c,c#,c++,java,python and more in Xiamen University.
 -  I’m looking to collaborate on making games and developing softwares.
